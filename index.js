@@ -2,18 +2,19 @@
 
 const fileSystem = require('fs');
 
-const inquirer = require("inquirer");
+//const inquirer = require("inquirer");
 
 // //having isues with inquirer - trying this instead
-// iimport("inquirer").then((inquirer) => {
-//     // Your code using inquirer
-// }).catch((error) => {
-//     console.error(error);
-// });
+
+import("inquirer").then((inquirer) => {
+
+}).catch((error) => {
+     console.error(error);
+ });
 
 const jest = require('jest');
 
-const {circle, square, triangle} = require("./library/shapes/shape");
+const {circle, square, triangle} = require("./library/shapes/shape.js");
 
 
 class Svg {
@@ -63,6 +64,8 @@ inquirer.prompt(questions).then(answers => {
     console.log(answers);
 });
 
+
+//git.initateApp
 //moved to shape.js
 // class Circle {
 //     constructor(color) {
