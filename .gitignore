@@ -1,0 +1,9 @@
+# files that should be ignored by git
+.node_modules/
+.DS_Store/
+
+
+#.README.md
+
+
+# ask Gary if others should be included
