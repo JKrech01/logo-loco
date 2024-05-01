@@ -1,8 +1,8 @@
 // Imports the 'fs' module, which provides an API for interacting with the file system.
 
-const fileSystem = require{"./node_modules/graceful-fs/graceful-fs"}
+const fileSystem = require("./node_modules/graceful-fs/graceful-fs.js")
 const inquirer = require("inquirer");
-const {circle, square, triangle} = require{"./library/shapes/shape"};
+const {circle, square, triangle} = require("./library/shapes/shape");
 
 // //having isues with inquirer - trying this instead
 

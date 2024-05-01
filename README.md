@@ -1,11 +1,8 @@
 # bbg-logo
 [text](../../lessons/10-OOP/02-Challenge/README.md)
 
-## Portfolio
-Working PORTFOLIO
-
-## Description
-
+## Description:
+Build a logo generator that takes user input and generates an SVG logo and saves it as logo.svg file.  Create a video going through the functionality.
 
 ## Code Sections
 
