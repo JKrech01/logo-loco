@@ -3,6 +3,6 @@
 
 <svg><polygon points='150, 18 244, 182 56, 182' fill="green" />
 
-<text x="150" y="125" font-size="60" text-anchor="middle" fill="blue">BBG</text>
+<text x="150" y="125" font-size="30" text-anchor="middle" fill="blue">BBG</text>
 
 </svg>
