@@ -1,1 +1,4 @@
-<svg width="300" height="200"><circle cx="100" cy="100" r="80" fill="blue" /></svg>
+<svg width="300" height="200"><svg width="300" height="200">
+            <circle cx="100" cy="100" r="80" fill="blue" />
+            <text x="60" y="110" fill="orange">JEK</text>
+          </svg></svg>
