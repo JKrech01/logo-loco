@@ -36,19 +36,19 @@ inquirer.prompt([
             case 'triangle':
                 svgContent = `<svg width="300" height="200">
                 <polygon points="150,18 244,182 56,182" fill="${color}" />
-                <text x="100" y="100" fill="${textColor}">${text}</text>
+                <text x="140" y="125" fill="${textColor}">${text}</text>
               </svg>`;
                 break;
             case 'circle':
                 svgContent = `<svg width="300" height="200">
             <circle cx="100" cy="100" r="80" fill="${color}" />
-            <text x="60" y="110" fill="${textColor}">${text}</text>
+            <text x="90" y="110" fill="${textColor}">${text}</text>
           </svg>`;
                 break;
             case 'square':
                 svgContent = `<svg width="300" height="200">
                 <rect x="50" y="50" width="100" height="100" fill="${color}" />
-                <text x="60" y="110" fill="${textColor}">${text}</text>
+                <text x="90" y="110" fill="${textColor}">${text}</text>
               </svg>`;
                 break;
             default:
