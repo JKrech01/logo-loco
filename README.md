@@ -1,5 +1,4 @@
-# bbg-logo
-[text](../../lessons/10-OOP/02-Challenge/README.md)
+# logo-loco
 
 ## Description:
 Build a logo generator that takes user input and generates an SVG logo and saves it as logo.svg file.  Create a video going through the functionality.
@@ -15,7 +14,6 @@ Something to simple gave me quite a challenge.  In the end, I ended up reaching 
 *  Working version of the code:https://github.com/JKrech01/bbg-logo
 
 *  Link to video: https://drive.google.com/file/d/1HezNTKucUKs5x0FXnKxZ0pxPVKP-LWfT/view
-
 
 ## Helpful SVG Resources
 * I relied on the instructor, tutor, the boot camp's Xpert Learning Assistant tool, and google, and the resources below to finish the project.
