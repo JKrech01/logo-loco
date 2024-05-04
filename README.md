@@ -4,24 +4,21 @@
 ## Description:
 Build a logo generator that takes user input and generates an SVG logo and saves it as logo.svg file.  Create a video going through the functionality.
 
-## Code Sections
-
-
 ## Lessons Learned
-
+Something to simple gave me quite a challenge.  In the end, I ended up reaching out to a tutor that helped me figure out I had the wrong version of inquirer and to the instructor so I can move past the questions.  I also had a hard time seeing the finished logo and with the help of the Xpert Learning Assistant was able to finish the project.
 
 ## Screenshot
-![alt text](image.png)
+![alt text](output.svg)
 
 ## Links
 
 *  Working version of the code:https://github.com/JKrech01/bbg-logo
 
-*  Link to video:  
+*  Link to video: https://drive.google.com/file/d/1HezNTKucUKs5x0FXnKxZ0pxPVKP-LWfT/view
 
 
 ## Helpful SVG Resources
-*  I used the boot camp's Xpert Learning Assistant tool, google, (https://www.w3schools.com/), and read through the resources provided in the challenge's README file. 
+* I relied on the instructor, tutor, the boot camp's Xpert Learning Assistant tool, and google, and the resources below to finish the project.
 
 * [Example SVG](https://static.fullstack-bootcamp.com/fullstack-ground/module-10/circle.svg)
 
@@ -35,19 +32,12 @@ Build a logo generator that takes user input and generates an SVG logo and saves
 
 * [SVG VS Code extension](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
-## Acknowledgment
-
-
 ## License
 * Uses the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4).
 
 * Uses the [Jest package](https://www.npmjs.com/package/jest) for a suite of unit tests.
 
-
-## Project Status
-This is a work-in-progress which will be evolving over time.
-
-##########################
+######
 ## Grading Requirements
 
 This Challenge is graded based on the following criteria:
